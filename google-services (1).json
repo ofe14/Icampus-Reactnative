@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156565952435",
+    "project_id": "icampus-project",
+    "storage_bucket": "icampus-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156565952435:android:637196c2bcea5e8d3dddc6",
+        "android_client_info": {
+          "package_name": "com.covenant.icampus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrd_xMAuswXYm9X1Gz17P1NW4McfHlGGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
